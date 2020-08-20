@@ -1,0 +1,16 @@
+body{
+  text-align: center;
+  background-color: #fddb3a;
+}
+.main-heading{
+  margin-top: 60px;
+  font-size: 5rem;
+  font-family: 'Pangolin', cursive;
+}
+.dice {
+  width: 15%;
+  margin: 50px 30px;
+}
+.btn{
+  width: 70%;
+}
